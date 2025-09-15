@@ -297,7 +297,3 @@ Thus, the execution of various Linux commands is executed successfully using Ubu
 
 
 
-
-## Result:
-
-Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
